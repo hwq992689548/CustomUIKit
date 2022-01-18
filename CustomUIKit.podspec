@@ -20,11 +20,11 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
-  s.description = "huangwqtest"
+  s.description = 'huangwqtest'
 
   s.homepage         = 'https://github.com/“hwq992689548”/CustomUIKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = "MIT"
+  s.license          = 'MIT'
   s.author           = { '“hwq992689548”' => '“992689548@qq.com”' }
   s.source           = { :git => 'https://github.com/“hwq992689548”/CustomUIKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
