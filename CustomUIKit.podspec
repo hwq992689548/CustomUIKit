@@ -20,6 +20,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
+  s.description = "huangwq test"
 
   s.homepage         = 'https://github.com/“hwq992689548”/CustomUIKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
