@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/CustomUIKit.svg?style=flat)](https://cocoapods.org/pods/CustomUIKit)
 [![Platform](https://img.shields.io/cocoapods/p/CustomUIKit.svg?style=flat)](https://cocoapods.org/pods/CustomUIKit)
 
-## Example
+## Example 
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
